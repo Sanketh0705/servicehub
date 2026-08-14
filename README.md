@@ -38,7 +38,7 @@ npm run build
 ## Business value
 ServiceHub reduces the friction of finding reliable local professionals by combining discovery, trust signals, transparent starting prices and booking in one interface.
 
-##Application
+## Application
 
 The application includes:
 
@@ -53,7 +53,7 @@ Services Page
 Service Details
 Booking Page
 
-##Project Information
+## Project Information
 Project Name:-	ServiceHub – Local Services Marketplace
 Project Type:-	Frontend Business-Value MVP
 Frontend:-	React.js
