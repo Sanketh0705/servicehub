@@ -53,16 +53,5 @@ Services Page
 Service Details
 Booking Page
 
-## Project Information
-Project Name:-	ServiceHub – Local Services Marketplace
-Project Type:-	Frontend Business-Value MVP
-Frontend:-	React.js
-Language:-	JavaScript
-Styling:-	CSS3
-Build Tool:-	Vite
-Version Control:-	Git & GitHub
-CI/CD:-	GitHub Actions
-Deployment:-	Vercel
-
 ## Future scope
 Authentication, REST API, PostgreSQL, provider onboarding, payments, real-time availability, maps, admin moderation and a production AI recommendation model.
